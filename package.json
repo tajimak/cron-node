@@ -1,0 +1,11 @@
+{
+  "name": "cron-node",
+  "version": "1.0.0",
+  "description": "cron-node",
+  "main": "write_token.js",
+  "scripts": {
+    "start": ". /etc/profile; node src/write_token.js",
+    "test": "echo \"Play test.\""
+  },
+  "author": "https://qiita.com/k1tajima"
+}
